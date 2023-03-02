@@ -1,0 +1,1 @@
+<?php $username="pentanikit";$password="pentanikit";?>
